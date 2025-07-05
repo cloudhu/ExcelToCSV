@@ -1,0 +1,11 @@
+{
+    "name": "excel_to_csv",
+    "version": "0.1.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "xlsx": "0.17.0",
+        "ini": ""
+    },
+    "author": "VaMP"
+}
